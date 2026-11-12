@@ -1,14 +1,27 @@
 
      ..-:\oo-.    .:oo/:-.
-    -oooooooooooooooooooooo.                            __                                                          ___
-   -oooooooooooooooooooooooo.           OOOOOOOOO:-.   `MM`     _.._        _.._        _.._     ____  _       _.   OOO.
-  -oooooooooooooooooooooooooo.          OOOOOOOOOOOo:        -/ooo-ooo.  -/OOOOOO/.  :/OOOOOO:.  OOOO.oOo: .:oOOOO-.OOO.
- `ooooooo/--/oooooo:--/ooooooo          OOOO    `OOOO `OooI `ooo:.    ` /oOO/```-:..oOOO-``\OOO: OOOO/` ``.oOOO/```\OOO.
- :oooooo-    :oooo-    :oooooo-         OOOO    .OOOo `OOOI  `-OOOOOOo.`OOOO.      -OOO:   .OOOo OOOO.    -OOOO`   /OOO.
- ooooooo:-  -/oooo:-  -/oooooo/         OOOOooooOooo- `OOOI  ._   `]OO/ :OOOOoooOO.`OOOOOooOOOO- OOOO.    `/OOOOooOOOOO.
- ooooooooo//oooooooo//ooooooooo         OOOOOOOOO:-`  `OOOI  `:OOoOO:-`  `-:OOOO:-`  `-:OOOO:-`  OOOO.     `-:OOO:-`OOO.
+    -oooooooooooooooooooooo.          
+   -oooooooooooooooooooooooo.           
+  -oooooooooooooooooooooooooo.          
+ `ooooooo/--/oooooo:--/ooooooo          
+ :oooooo-    :oooo-    :oooooo-                                                     
+ ooooooo:-  -/oooo:-  -/oooooo/         
+ ooooooooo//oooooooo//ooooooooo         
  ooooooo/ooooooooooooo//oooooo/
  `.:ooooo/``.------.`.\oooo/:.
      `.-:`            .:-.`
+
+
+   /$$                         /$$                          
+  | $$                        | $$                          
+ /$$$$$$   /$$   /$$  /$$$$$$ | $$   /$$  /$$$$$$  /$$   /$$
+|_  $$_/  | $$  | $$ /$$__  $$| $$  /$$/ |____  $$| $$  | $$
+  | $$    | $$  | $$| $$  \__/| $$$$$$/   /$$$$$$$| $$  | $$
+  | $$ /$$| $$  | $$| $$      | $$_  $$  /$$__  $$| $$  | $$
+  |  $$$$/|  $$$$$$/| $$      | $$ \  $$|  $$$$$$$|  $$$$$$$
+   \___/   \______/ |__/      |__/  \__/ \_______/ \____  $$
+                                                   /$$  | $$
+                                                  |  $$$$$$/
+                                                   \______/ 
 
   https://discord.com/company
